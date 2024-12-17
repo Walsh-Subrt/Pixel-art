@@ -1,7 +1,7 @@
 Dobrý den, zde posílám slovní část ročníkového projektu.
 
-Cílem mého projektu bylo, se lépe seznámit s programovacím ( scriptovacím )jazykem JavaScript. Vybral jsem si programování, protože to bylo vedlo k mému rozhodnutí jít na tuto školu. Vybral jsem si něco, co bych dokázal zpracovat, ovšem jsem musel poprosit jednoho z mých kamarádů, aby mi s kódem pomohl. Naučil jsem se dělat CSS a JS v HTML. Do budoucna bych chtěl tento program rozšířit nebo udělat něco složitějšího, záleží jak daleko se za tu dobu dostanu. Největší problém mi dělala HTML část se kterou jsem potřeboval pomoc. Samotné programování mě baví a zvažuji, že se mu budu věnovat více času. 
-Na tvorbě tohoto projektu jsem spolupracoval s využitím vzdělávacích videí na platformě YouTube a asistence AI nástroje, který mi poskytl technickou podporu a rady při psaní kódu. Obrovské poděkování patří také Matějovi Vítovi, který mi s kódem pomohl, děkuji.
+Cílem mého projektu bylo, se lépe seznámit s programovacím ( scriptovacím )jazykem JavaScript. Vybral jsem si programování, protože to mě vedlo k mému rozhodnutí jít na tuto školu. Vybral jsem si něco, co bych dokázal zpracovat, ovšem jsem musel poprosit jednoho z mých kamarádů, aby mi s kódem pomohl. Naučil jsem se dělat CSS a JS v HTML. Do budoucna bych chtěl tento program rozšířit nebo udělat něco složitějšího, záleží jak daleko se za tu dobu dostanu. Největší problém mi dělala HTML část se kterou jsem potřeboval pomoc. Samotné programování mě baví a zvažuji, že se mu budu věnovat více času. 
+Na tvorbě tohoto projektu jsem spolupracoval s využitím vzdělávacích videí na platformě YouTube a asistence AI, který mi poskytl technickou podporu a rady při psaní kódu. Obrovské poděkování patří také Matějovi Vítovi, který mi s kódem pomohl, děkuji.
 
 
 
